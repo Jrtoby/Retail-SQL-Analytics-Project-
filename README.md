@@ -59,4 +59,5 @@ Retail-SQL-Analytics-Project/
 
 Feel free to reach out if you'd like to collaborate or discuss improvements!
 
-- LinkedIn: [Your Name](www.linkedin.com/in/okafor-sopuluchukwu-toby-456693214)
+- LinkedIn:
+https://www.linkedin.com/in/okafor-sopuluchukwu-toby-456693214
